@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Im-Kaycee
 - 👀 I’m interested in Python and JavaScript
 - 🌱 I’m currently learning JavaScript and Django
-- 💞️ I’m looking to collaborate on projects. Period
+-  I’m looking to collaborate on projects. Period
 - 📫 Reach me via email @favourkaycee23@gmail.com
 - ⚡ Fun fact: I don't need to know a language to complete a project
 
