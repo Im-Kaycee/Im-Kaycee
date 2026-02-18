@@ -16,7 +16,7 @@ Currently, I’m exploring how to blend **backend development** with **cybersecu
 ---
 
 ##  Projects
--  **Invoice API (FastAPI)** – Simple invoice management with authentication and RESTful APIs.  
+-  **API Testing Tool (FastAPI)** – Simple tool built in FastAPI and React that allows for testing of RESTful APIs.  
 -  **Course Sales Platform (Django)** – E-learning system with user accounts, payments, and course playback.  
 -  **Blockchain Voting System** – Secure voting dApp combining Solidity smart contracts with Django frontend.  
 -  **Anonymous Chat App** – Real-time anonymous communication built in Django.  
