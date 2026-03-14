@@ -18,7 +18,7 @@ Currently, I’m exploring how to blend **backend development** with **cybersecu
 ##  Projects
 -  **API Testing Tool (FastAPI)** – Simple tool built in FastAPI and React that allows for testing of RESTful APIs.  
 -  **Course Sales Platform (Django)** – E-learning system with user accounts, payments, and course playback.  
--  **Blockchain Voting System** – Secure voting dApp combining Solidity smart contracts with Django frontend.  
+-  **Blockchain Voting System** – Secure voting dApp combining Solidity smart contracts with Django.  
 -  **Anonymous Chat App** – Real-time anonymous communication built in Django.  
 
 ---
