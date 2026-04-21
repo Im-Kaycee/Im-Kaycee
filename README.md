@@ -8,7 +8,7 @@ Currently, I’m exploring how to blend **backend development** with **cybersecu
 ---
 
 ##  Tech Stack
-- **Languages**: Python, Java, JavaScript (learning), Solidity (basic)  
+- **Languages**: Python, JavaScript (learning), Solidity (basic)  
 - **Frameworks**: Django, FastAPI, Tailwind CSS  
 - **Databases**: PostgreSQL, MySQL, SQLite  
 - **Other**: Git, Docker (learning), CI/CD basics, Linux  
